@@ -1,5 +1,7 @@
 # VOID206551
 
+![Discord](https://img.shields.io/discord/728016111920087081?color=%23738ADB&label=Official%20Server&logo=discord&style=for-the-badge)
+
 ## About Me
 Hi! You're stopping by my account! That's pretty cool, I guess. Anyways, I'm Jason. I started coding with HTML, CSS, and JavaScript just a couple years ago. I enjoy what I do and I'm always willing to learn more. 
 
