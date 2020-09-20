@@ -22,4 +22,4 @@ I'm currently working on a Discord bot, [Melody](https://github.com/void-melody/
   > Its releases support both Linux and Windows. 
  
 ## Contact Methods
-Since I am 15-years-old, most of my information is somewhat privated. If you do want to contact me, please contact me on Discord (`void206551#6669`).
+Since I am 15-years-old, most of my information is somewhat privated. If you do want to contact me, please contact me on Discord.
