@@ -17,9 +17,3 @@ I'm currently working on a Discord bot, [Melody](https://github.com/void-melody/
  
  I'm developing a NPM package to send pickup lines, jokes, topics, roasts, and toasts. You can find that [here](https://void206551.github.io/fun-responses/)
  > It's still in development so it may be a bit buggy. 
- 
- I was working on [YTDL-CLI](https://github.com/void206551/ytdl-cli).
-  > Its releases support both Linux and Windows. 
- 
-## Contact Methods
-Since I am 15-years-old, most of my information is somewhat privated. If you do want to contact me, please contact me on Discord.
