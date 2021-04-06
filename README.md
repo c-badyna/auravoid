@@ -2,7 +2,7 @@
 
 ## Working On
 I'm currently working on a Discord bot, [Melody](https://melody.void206551.dev). 
- > Melody is a simple chat bot with a few amount of commands right now. Melody is made with Discord.js and is hosted on Heroku.
+ * Melody is a simple Discord chat bot that is made with Discord.js and is in over 100 servers.
  
  I've developed an API to get topics, roasts, toasts, pickup lines, and jokes. 
  * [NPM package](https://void206551.dev/projects/fun-responses)
