@@ -29,6 +29,12 @@ I'm Jason O'Donnell, a web developer learning more and more every day.
 
 * * *
 
+## Proud Sponsor of:
+<img src="https://voidprojects.dev/sources/images/freecodecamp.png" alt="freeCodeCamp" width="50%">
+<img src="https://voidprojects.dev/sources/images/supabase.png" alt="SupaBase" width="40%">
+
+***
+
 [![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](https://forthebadge.com)
 
 Username aliases: void206551, voidAurora
