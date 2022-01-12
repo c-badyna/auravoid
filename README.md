@@ -23,7 +23,7 @@ I'm Jason O'Donnell, a web developer learning more and more every day.
 
 <img src="https://wakatime.com/share/@voidAurora/39d32b2c-322a-4ba6-9f30-9a5eb64ced87.png" alt="WakaTime Language Stats" width="50%">
 
-### 🎶 Listening Too
+### 🎶 Listening To
 
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=jaycool090)
 
