@@ -30,8 +30,8 @@ I'm Jason O'Donnell, a web developer learning more and more every day.
 * * *
 
 ## Proud Sponsor of:
-<img src="https://voidprojects.dev/sources/images/freecodecamp.png" alt="freeCodeCamp" width="50%">
-<img src="https://voidprojects.dev/sources/images/supabase.png" alt="SupaBase" width="40%">
+<img src="http://cdn.voidprojects.dev/images/sponsor/freecodecamp.png" alt="freeCodeCamp" width="50%">
+<img src="http://cdn.voidprojects.dev/images/sponsor/supabase.png" alt="SupaBase" width="40%">
 
 ***
 
