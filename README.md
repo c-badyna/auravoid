@@ -2,15 +2,15 @@
 
 I'm Jason O'Donnell, a web developer learning more and more every day. 
 
-*   Hobbies: Anime, gaming, music
-*   Languages: Javascript, V, Python
-*   Pronouns: They/Them
-*   Favorites:
-    *   🎤 Artist: YOASOBI
-    *   🎧 Song: 夜に駆ける (Into The Night) by YOASOBI
-    *   🎬 Movie: Koe no Katachi (A Silent Voice)
-    *   🎮 Game: Celeste
-*   Learning: Android, Kotlin, Java, jQuery
+*   **Hobbies**: Anime, gaming, music
+*   **Languages**: Javascript, V, Python
+*   **Pronouns**: They/Them
+*   **Favorites**:
+    *   🎤 **Artist**: YOASOBI
+    *   🎧 **Song**: 夜に駆ける (Into The Night) by YOASOBI
+    *   🎬 **Movie**: Koe no Katachi (A Silent Voice)
+    *   🎮 **Game**: Celeste
+*   **Learning**: Android, Kotlin, Java, jQuery
 
 * * *
 
