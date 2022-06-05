@@ -2,16 +2,15 @@
 
 I'm Jason O'Donnell, a web developer learning more and more every day. 
 
--   **Hobbies:** Anime, gaming, music
--   **Languages:** Javascript, V, Python
--   **Pronouns:** They/Them
--   **Favorites:**
-    -   **🎤 Artist:** Panic! At The Disco
-    -   **🎧 Song:** [Creve Coeur 1 by Hobo Johnson](https://open.spotify.com/track/3DEBzWeKiotejoASmaaMZV?si=e362ca9d1f5b46f7)
-    -   **🎬 Movie:** Koe no Katachi (A Silent Voice)
-    -   **🎮 Game:** Celeste
--   **Learning:** Android, Kotlin, Java, jQuery
--   **Goal for 2022:** Learn more skills for my career and contribute to open-source projects
+*   Hobbies: Anime, gaming, music
+*   Languages: Javascript, V, Python
+*   Pronouns: They/Them
+*   Favorites:
+    *   🎤 Artist: YOASOBI
+    *   🎧 Song: 夜に駆ける (Into The Night) by YOASOBI
+    *   🎬 Movie: Koe no Katachi (A Silent Voice)
+    *   🎮 Game: Celeste
+*   Learning: Android, Kotlin, Java, jQuery
 
 * * *
 
