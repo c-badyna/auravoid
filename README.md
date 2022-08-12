@@ -22,10 +22,6 @@ I'm Aura, a web developer learning more and more every day.
 
 ![Metrics](https://metrics.lecoq.io/auravoid?template=classic&amp;base.header=0&amp;base.activity=0&amp;base.community=0&amp;base.repositories=0&amp;base.metadata=0&amp;achievements=1&amp;achievements.threshold=C&amp;achievements.secrets=true&amp;achievements.display=compact&amp;achievements.limit=0&amp;config.timezone=America%2FNew_York)
 
-### 🧑‍💻Languages in the Past 30 Days
-
-<img src="https://wakatime.com/share/@voidAurora/39d32b2c-322a-4ba6-9f30-9a5eb64ced87.png" alt="WakaTime Language Stats" width="50%">
-
 ### 🎶 Listening To
 
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=jaycool090)
