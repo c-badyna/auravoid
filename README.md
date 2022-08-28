@@ -29,8 +29,8 @@ I'm Aura, a web developer learning more and more every day.
 * * *
 
 ## Proud Sponsor of:
-<img src="http://cdn.voidprojects.dev/images/sponsor/freecodecamp.png" alt="freeCodeCamp" width="50%">
-<img src="http://cdn.voidprojects.dev/images/sponsor/supabase.png" alt="SupaBase" width="40%">
+<img src="http://cdn.auravoid.dev/images/sponsor/freecodecamp.png" alt="freeCodeCamp" width="50%">
+<img src="http://cdn.auravoid.dev/images/sponsor/supabase.png" alt="SupaBase" width="40%">
 
 ***
 
