@@ -29,7 +29,7 @@ I'm Aura, a web developer learning more and more every day.
 * * *
 
 ## Proud Sponsor of:
-<img src="http://cdn.auravoid.dev/images/sponsor/freecodecamp.png" alt="freeCodeCamp" width="60vw">
+<img src="http://cdn.auravoid.dev/images/sponsor/freecodecamp.png" alt="freeCodeCamp" width="60%">
 
 ***
 
