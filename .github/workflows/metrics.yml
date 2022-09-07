@@ -13,6 +13,7 @@ jobs:
       contents: write
     steps:
       - uses: lowlighter/metrics@latest
+        
         with:
           # Your GitHub token
           # The following scopes are required:
@@ -23,6 +24,9 @@ jobs:
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
+          
+          output_action: commit
+          target_branch: output
 
           # Options
           user: auravoid
