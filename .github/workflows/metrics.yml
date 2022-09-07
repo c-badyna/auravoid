@@ -26,7 +26,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           
           output_action: commit
-          target_branch: output
+          committer_branch: output
+          committer_message: "chore: update metrics"
 
           # Options
           user: auravoid
